@@ -1,12 +1,4 @@
 {
-    "locale": "az",
-    "trace_id": null,
-    "meta": {
-        "page": 1,
-        "per_page": 100,
-        "total_pages": 9,
-        "total_entries": 857
-    },
     "products": [
         {
             "product_labels": [],
